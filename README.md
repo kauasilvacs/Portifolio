@@ -122,4 +122,3 @@ python -m http.server 8000
 
 ---
 
-Feito com 🛡️ (e um pouco de HTML, CSS e JS).
